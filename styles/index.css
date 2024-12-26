@@ -1,0 +1,28 @@
+#nav {
+    display: flex;
+    background-color: rgb(46, 236, 243);
+    color:bisque
+}
+#nav-container{
+    display: flex;
+    height: fit-content;
+    padding: 1.5rem;
+
+}
+#nav-links{
+    display: flex;
+    justify-content: space-around;
+    gap:50px;
+    padding-left: 100px;
+} 
+a{
+    color :rgb(237, 187, 5);
+    text-decoration: none;
+    font-size: 20px;
+}
+#footer{
+    display: flex;
+    background-color: rgb(46, 236, 243);
+    margin: 500px 0 0 0;
+    color :rgb(237, 187, 5);
+}
